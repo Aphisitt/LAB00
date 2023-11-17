@@ -1,0 +1,17 @@
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.exe
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.deps.json
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.runtimeconfig.json
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.dll
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\bin\Debug\net8.0-windows\LAB0.pdb
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.Form1.resources
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.csproj.GenerateResource.cache
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.AssemblyInfo.cs
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.dll
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\refint\LAB0.dll
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.pdb
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.genruntimeconfig.cache
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\ref\LAB0.dll
+C:\Users\NK 2314\Desktop\lab0\LAB0\LAB0\obj\Debug\net8.0-windows\LAB0.Properties.Resources.resources
